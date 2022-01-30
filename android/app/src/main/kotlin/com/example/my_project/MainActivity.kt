@@ -1,0 +1,6 @@
+package com.flutterflow.candlestickwidget
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
